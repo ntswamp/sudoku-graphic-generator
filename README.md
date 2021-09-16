@@ -1,2 +1,2 @@
 # sudoku-graphic-generator
-generate graphics from text.
+generate sudoku graphics from text.
